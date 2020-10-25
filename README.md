@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Michał Zborowski Frontend Developer 👋
 
-<!--
-**zborowskidesign/zborowskidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Some facts about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on my own educational platform
+- 🌱 I’m currently learning TypeScirpt
+- 👯 I'm looking for opportunities to cooperate with other programmers on interesting projects
+- 📫 How to reach me: My linkedin profie: https://www.linkedin.com/in/micha%C5%82-zborowski-766b27170/
+- ⚡ Fun fact: I graduated in history and software engineering
+
+
+### Programming is more than just work for me, it's my passion!
+
